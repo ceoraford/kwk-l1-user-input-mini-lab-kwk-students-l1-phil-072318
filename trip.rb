@@ -19,4 +19,4 @@ puts "Cool! What foods would you like to eat during your visit?"
 eat = gets.chomp
 puts "Great choices! How many nights would you like to stay?"
 nights = gets.chomp
-puts "It sounds like you'll have a great trip! You want to stay at #{stay} and visit #{places}. You also want to try #{eat}. You'll have a wonderful time during your #{nights} night stay!"
+puts "It sounds like you'll have a great trip! You want to stay at #{stay} and visit#{places}. You also want to try #{eat}. You'll have a wonderful time during your #{nights} night stay!"
